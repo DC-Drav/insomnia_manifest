@@ -397,7 +397,7 @@
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="ck" revision="jb43" groups="notdefault,vendor,htc" />
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="ck" revision="master" groups="notdefault,vendor,samsung" />
-  <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision"jb3" groups="notdefault,vendor,lge" />
+  <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision="jb3" groups="notdefault,vendor,lge" />
   <project path="vendor/insomnia" name="platform_vendor_insomnia" remote="ck" revision="jb43" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" />
